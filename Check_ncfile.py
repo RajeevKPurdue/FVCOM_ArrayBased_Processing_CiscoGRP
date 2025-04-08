@@ -1,8 +1,15 @@
+"""
+This code consists of cells that I have used to check input and output files that have different file structures. It more so shows work and serves as a log.
+"""
+
+
+
 import xarray as xr
 import netCDF4 as nc
 from netCDF4 import chartostring
 import numpy as np
 import pandas as pd
+
 
 #file_path = "your_file.nc"  # Change to your actual NetCDF file path
 larger_testfile_path = '/Volumes/WD Backup/Rowe_FVCOM_data/FVCOM_dataforRnd2/20170530_2016/erie_0008.nc' #WD path small file 2016
@@ -11,7 +18,7 @@ testfile_path =''
 #ds = xr.open_dataset(file_path)
 
 from netCDF4 import Dataset
-# Opening the file that works using dataset and selective reading like a plain ol .nc file
+# Opening the file that works using dataset and selective reading like a plain ol' .nc file
 ds = nc.Dataset(larger_testfile_path)
 
 
