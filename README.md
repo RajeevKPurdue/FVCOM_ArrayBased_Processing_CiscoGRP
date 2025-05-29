@@ -22,7 +22,7 @@ Author, A. (2025). Project Title. Software. GitHub repository. https://github.co
 
 ## License
 
-This project is licensed under the [Apache License 2.0](LICENSE) - see the LICENSE file for details.
+This project is licensed under the [MIT](LICENSE) - see the LICENSE file for details.
 
 ## Acknowledgments
 
