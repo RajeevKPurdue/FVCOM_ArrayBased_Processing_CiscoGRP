@@ -8,3 +8,22 @@ A volumetric analysis of Cisco habitat using GRP (growth rate potential) modelin
 The regex file pattern for reading in files is due to variable file size, dates and structure where the FVCOM can generate output files that contain 23 hours of one day and 1 hour of the next day. 
 
 Assess your file structure and timescales of summary and modify the file processing and analysis scripts appropriately
+
+## Attribution
+
+## Citation
+
+If you use this software in your research, please cite:
+
+[Your Name]. (Year). [Repository Name]. GitHub. https://github.com/username/repo-name
+
+Or in academic format:
+Author, A. (2025). Project Title. Software. GitHub repository. https://github.com/username/repo
+
+## License
+
+This project is licensed under the [Apache License 2.0](LICENSE) - see the LICENSE file for details.
+
+## Acknowledgments
+
+If you use this code in published work, please acknowledge its use and consider citing any relevant publications.
