@@ -16,7 +16,7 @@ Assess your file structure and timescales of summary and modify the file process
 
 If you use this software in your research, please cite:
 
-Kumar, R. (2025). FVCOM output array-based processor:  GitHub. https://github.com/RajeevKPurdue/FVCOM_ArrayBased_Processing_CiscoGRP
+Kumar, R. (2025). FVCOM output array-based framework:  GitHub. https://github.com/RajeevKPurdue/FVCOM_ArrayBased_Processing_CiscoGRP
 
 
 ## License
