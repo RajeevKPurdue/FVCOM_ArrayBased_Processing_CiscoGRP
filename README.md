@@ -1,6 +1,6 @@
 ## FVCOM_ArrayBased_Processing_CiscoGRP
 ### Rajeev Kumar, Höök Lab @ Purdue FNR; Collaboration with Mark Rowe (NOAA GLERL)
-An alternative for processing FVCOM data that runs faster than PyFVCOM for those who do not have access to a computing cluster. I have also included R code for node based processing, spatial analyses, etc.. but R is prone to run into vector memory and speed issues on most PCs with Big Data.. even with the parallel, garbage collection, chunking, and full array based operations. 
+A streamlined, array based, alternative framework for processing FVCOM data that runs faster than PyFVCOM (but lacks high-level features) for those conducting big data analyses and do not have access to a computing cluster. I have also included R code for node based processing, spatial analyses, etc.. but R is prone to run into vector memory and speed issues on most PCs with Big Data.. even with the parallel, garbage collection, chunking, and full array based operations. 
 
 The FVCOM data was provided by Mark Rowe (NOAA). The FVCOM model used to generate the output is described in (Rowe et al., 2019).
 
