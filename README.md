@@ -16,8 +16,7 @@ Assess your file structure and timescales of summary and modify the file process
 
 If you use this software in your research, please cite:
 
-[Rajeev Kumar]. (2025). [FVCOM_ArrayBased_Processing_CiscoGRP]. GitHub. [[https://github.com/RajeevKPurdue/FVCOM_ArrayBased_Processing_CiscoGRP]
-
+Kumar, R. (2025). FVCOM output array-based processor:  GitHub. [https://github.com/RajeevKPurdue/FVCOM_ArrayBased_Processing_CiscoGRP]
 Or in academic format:
 Author, A. (2025). Project Title. Software. GitHub repository. https://github.com/username/repo
 
