@@ -25,4 +25,4 @@ This project is licensed under the [MIT](LICENSE) - see the LICENSE file for det
 
 ## Acknowledgments
 
-If you use this code in published work, please acknowledge its use and consider cite any relevant publications.
+If you use this code in published work, please acknowledge its use and consider citing it for any/all relevant publications.
