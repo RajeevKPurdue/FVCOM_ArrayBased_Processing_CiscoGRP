@@ -5,11 +5,11 @@ A streamlined, array based, alternative framework for processing FVCOM data that
 
 The FVCOM data was provided by Mark Rowe (NOAA). The FVCOM model used to generate the output is described in (Rowe et al., 2019).
 
-A volumetric analysis of Cisco habitat using GRP (growth rate potential) modeling (Arend et al., 2011, Brandt & Kirsch, 1992; Kitchell et al., 1977). Analyses of Lake Erie water quality and cold-water fish habitat for 17 historical years. Includes two Dissolved Oxygen Penalty frameworks (Arend et al., 2011; & a framework I may publish from work in my '.._IN_lakes..' repository- inspired by Jacobson et al., 2011).
+A volumetric analysis of Cisco habitat using a GRP (growth rate potential) modeling framework (Arend et al., 2011, Hanson et al., 1997; Rudstam et al., 1994; Kitchell et al., 1977). Analyses of Lake Erie water quality and cold-water fish habitat for 17 historical years. Includes two Dissolved Oxygen Penalty frameworks (Arend et al., 2011; & a framework I may publish from work in my '.._IN_lakes..' repository- inspired by Jacobson et al., 2008 & Arend et al., 2011).
 
 The regex file pattern for reading in files is due to variable file size, dates and structure where the FVCOM can generate output files that contain 23 hours of one day and 1 hour of the next day (..lehf dirs...). 
 
-Assess your file structure, timescales of summary, etc., etc., etc., and modify the scripts appropriately for your task.
+Assess your file structure, timescales of summary, etc., etc., etc., and modify appropriately for your task.
 
 ## Attribution
 
